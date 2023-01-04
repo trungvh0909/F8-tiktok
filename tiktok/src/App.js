@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <b>** yarn start run project **</b>
       </header>
     </div>
   );
